@@ -297,6 +297,4 @@ int main() {
     printf("\nPosicao final do robo: (%d,%d)\n", robo.r, robo.c);
 
     return 0;
-}//
-// Created by luan on 05/03/26.
-//
+}
